@@ -8,8 +8,8 @@ PDF          | Title         | Presenter     | Zoom link
 ------------ | ------------- | ------------- | -------------
 <iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="568" height="351" allowfullscreen="true" frameborder="0"></iframe> | Computational design of a biosensor | Ahsan Islam | [Islam](https://www.google.com)
 
+<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="568" height="351" allowfullscreen="true" frameborder="0"></iframe>
+
 ### Support or Contact
 
-In case you have any questions please contact [Benjamin Wölfl](mailto:email@server.at] on behalf of the EvolVienna meeting organizing committee.
-
-This website uses [Jekyll](https://jekyllrb.com/) to build the page from Markdown files.
+In case you have any questions please contact [Benjamin Wölfl](mailto:email@server.at) on behalf of the EvolVienna meeting organizing committee.
