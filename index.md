@@ -8,15 +8,21 @@ The Zoom presentations will be active on __September 29, between 16:00 and 16:30
 
 ## Posters
 
+---
+
 #### Poster 01: Computational design of a biosensor (Islam A., Loughborouh University)
 Zoom: https://www.google.com
 
-<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="300" height="185" allowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="500" height="309" allowfullscreen="true" frameborder="0"></iframe>
+
+---
 
 #### Poster 02: Encapsulating viruses (bacteriophages) to treat life-threatening bacterial infection of the colon (Vinner G. K., University of Leicester)
 Zoom: https://www.google.com
 
-<iframe src="https://widgets.figshare.com/articles/9245615/embed?show_title=1" width="300" height="185" allowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/9245615/embed?show_title=1" width="500" height="309" allowfullscreen="true" frameborder="0"></iframe>
+
+---
 
 ### Support or Contact
 
