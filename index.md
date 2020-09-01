@@ -13,7 +13,7 @@ The Zoom presentations will be active on __September 29, between 16:00 and 16:30
 #### Poster 01: Computational design of a biosensor (Islam A., Loughborouh University)
 Zoom: https://www.google.com
 
-<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="500" height="309" allowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="60%" allowfullscreen="true" frameborder="0"></iframe>
 
 ---
 
