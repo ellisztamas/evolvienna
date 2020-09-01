@@ -1,6 +1,8 @@
 # Welcome to the event page!
 
+<p align="center">
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
+</p>
 
 ## Schedule
 
