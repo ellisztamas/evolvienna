@@ -23,11 +23,11 @@ Start time | End time | Presenter               | Title                         
 16:00      | 16:30    | NN (NN)                 | Lorem ipsum                    | [Link 1](https://google.com)
 16:30      | 17:00    | NN (NN)                 | Lorem ipsum                    | [Link 1](https://google.com)
 
-## Sign-up (#sign-up)
+## Sign-up
 
 Please sign-up [here](https://forms.gle/w8KMicDXHmz3paDf9).
 
-## Poster session (#poster-session)
+## Poster session
 
 The data below are just random examples from [figshare](https://figshare.com). Those presentations will __not__ take place.
 
