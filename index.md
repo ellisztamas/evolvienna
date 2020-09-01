@@ -4,7 +4,7 @@
 
 ## Schedule
 
-The meeting will take place __online__ on Tuesday, October 27<sup>th</sup>, 2020, between 13:00 and 17:00 (GMT+2).
+The meeting will take place __online__ on Tuesday, Oct. 27<sup>th</sup>, 2020, between 13:00 and 17:00 (GMT+2).
 
 We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
 
@@ -31,7 +31,7 @@ Please sign-up [here](https://forms.gle/w8KMicDXHmz3paDf9).
 
 The data below are just random examples from [figshare](https://figshare.com). Those presentations will __not__ take place.
 
-The Zoom presentations will be active on __September 29, between 16:00 and 16:30__.
+The Zoom presentations will be only active on Oct. 27 between __14:45 and 15:25__ (GMT+2).
 
 ## Posters
 
