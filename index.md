@@ -31,7 +31,7 @@ Please sign-up [here](https://forms.gle/w8KMicDXHmz3paDf9).
 
 The data below are just random examples from [figshare](https://figshare.com). Those presentations will __not__ take place.
 
-The Zoom presentations will be only active on Oct. 27 between __14:45 and 15:25__ (GMT+2).
+The Zoom presentations will be only active on Oct. 27<sup>th</sup> between __14:45 and 15:25__ (GMT+2).
 
 ## Posters
 
@@ -53,4 +53,10 @@ Zoom: https://www.google.com
 
 ### Support or Contact
 
-In case you have any questions please contact [Benjamin Wölfl](mailto:email@server.at) on behalf of the EvolVienna meeting organizing committee.
+In case you have any questions please contact the evolVienna meeting organizing committee:
+- Tom Ellis (GMI - Gregor Mendel Institute of Molecular Plant Biology of the Austrian Academy of Sciences)
+- Christina Hedderich (University of Vienna, Dep. of Botany and Vienna Grad. School of Population Genetics)
+- Sanjay Narayanaswamy (University of Vienna, Dep. of Neuroscience and Developmental Biology)
+- Daria Shipilina (IST - Institute of Science and Technology Austria)
+- Thomas Wolfe (BOKU - University of Natural Resources and Life Sciences Vienna)
+- Benjamin Wölfl (University of Vienna, Dep. of Mathematics and Vienna Grad. School of Population Genetics)
