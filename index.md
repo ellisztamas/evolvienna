@@ -1,4 +1,4 @@
-# Welcome to the event page for the 27.10. evolVienna online meeting!
+# Welcome to the event page!
 
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
 
