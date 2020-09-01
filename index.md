@@ -1,5 +1,7 @@
 # Welcome to the event page!
 
+[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Contact](#support-or-contact)
+
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
 
 ## Schedule
@@ -32,8 +34,6 @@ Please sign-up [here](https://forms.gle/w8KMicDXHmz3paDf9).
 The data below are just random examples from [figshare](https://figshare.com). Those presentations will __not__ take place.
 
 The Zoom presentations will be only active on Oct. 27<sup>th</sup> between __14:45 and 15:25__ (GMT+2).
-
-## Posters
 
 ---
 
