@@ -35,19 +35,41 @@ The data below are just random examples from [figshare](https://figshare.com). T
 
 The Zoom presentations will be only active on Oct. 27<sup>th</sup> between __14:45 and 15:25__ (GMT+2).
 
+> __Caveat__: For the test run on Sep. 18, Zoom session of Poster 03 through 04 will commence at 10:15. The required passphrase is sent out via email.
+
 ---
 
 #### Poster 01: Computational design of a biosensor (Islam A., Loughborouh University)
-Zoom: https://www.google.com
+Zoom Meeting-ID: 404 1245 1234
+
+Abstract: Lorem ipsum ...
 
 <iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
 
 ---
 
 #### Poster 02: Encapsulating viruses (bacteriophages) to treat life-threatening bacterial infection of the colon (Vinner G. K., University of Leicester)
-Zoom: https://www.google.com
+Zoom Meeting-ID: 404 1245 1245
+
+Abstract: Lorem ipsum ...
 
 <iframe src="https://widgets.figshare.com/articles/9245615/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+
+---
+
+#### Poster 03: Shipilina's title (Shipilina D., IST Austria)
+Zoom Meeting-ID: 922 1993 1194
+
+Abstract: We studied the lifecycle of _Kamera lens_ and found out that its components derive from recycled conspecifics. Ultimately, we show that the organism's metabolic rate increases 10-fold when being incased in a metallic superstructure.
+
+<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+  
+#### Poster 04: Footprints of polygenic adaptation of a quantitative trait under stabilizing selection (Wölfl B., University of Vienna)
+Zoom Meeting-ID: 731 4773 3534
+
+Abstract: We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_.
+
+<iframe src="https://widgets.figshare.com/articles/9641909/embed?show_title=true" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
 
 ---
 
