@@ -107,7 +107,7 @@ Click [here](tutorial_zoom_presenter.pdf) to download the PDF with the tutorial.
 
 Click [here](tutorial_figshare.pdf) to download the PDF with the tutorial.
 
-_Reminder_: If you follow this procedure you are effectively __publishing__ your poster. If you do not like that, please contact a member of the organizing committee.
+__Reminder:__ If you follow this procedure you are effectively __publishing__ your poster. If you do not like that, please contact a member of the organizing committee.
 
 ---
 
