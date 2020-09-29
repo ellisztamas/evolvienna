@@ -1,6 +1,6 @@
 # Welcome to the event page of the next EvolVienna meeting on 27<sup>th</sup> October!
 
-[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Support & contact](#support-or-contact) | [Tutorial 1](#tutorial1) | [Tutorial 2](#tutorial2) | [Tutorial 3](#tutorial3)
+[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Support & contact](#support-&-contact) | [Tutorial 1](#tutorial-1) | [Tutorial 2](#tutorial-2) | [Tutorial 3](#tutorial-3)
 
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
 
@@ -89,7 +89,7 @@ We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. 
 
 > How to __access__ a Zoom meeting as __audience__
 
-Click [here](tutorial_zoom_attendee.pdf) to open the PDF with the tutorial.
+Click [here](tutorial_zoom_attendee.pdf) to download the PDF with the tutorial.
 
 ---
 
@@ -97,7 +97,7 @@ Click [here](tutorial_zoom_attendee.pdf) to open the PDF with the tutorial.
 
 > How to __schedule and open__ a Zoom meeting as a __poster presenter__
 
-Click [here](tutorial_zoom_presenter.pdf) to open the PDF with the tutorial.
+Click [here](tutorial_zoom_presenter.pdf) to download the PDF with the tutorial.
 
 ---
 
@@ -105,7 +105,7 @@ Click [here](tutorial_zoom_presenter.pdf) to open the PDF with the tutorial.
 
 > How to __publish__ your poster on __figshare__
 
-Click [here](tutorial_figshare.pdf) to open the PDF with the tutorial.
+Click [here](tutorial_figshare.pdf) to download the PDF with the tutorial.
 
 _Reminder_: If you follow this procedure you are effectively __publishing__ your poster. If you do not like that, please contact a member of the organizing committee.
 
