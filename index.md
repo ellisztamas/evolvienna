@@ -12,7 +12,7 @@ Upon trying to enter any of the Zoom meetings you will be prompted to enter a pa
 
 > Registration for this event closes at 13<sup>th</sup> October.
 
-> Please make sure that you are able to enter Zoom meetings using a __Meeting ID__ (not an invite link).
+Please make sure that you are able to enter Zoom meetings using a __Meeting ID__ (not an invite link).
 
 ## Schedule
 
@@ -28,7 +28,7 @@ Start time (CEST) | End time (CEST) | Presenter               | Title           
 13:10 | 13:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| tba | 111 1111 1111
 13:40 | 14:10 | Tal Dahan (Weizman Institute) | tba | 111 1111 1111
 14:10 | 14:40 | tba | tba | 111 1111 1111
-14:45 | 15:25 | [See below](#poster-session) | |
+14:45 | 15:25 | [See below](#poster-session) |    |    
 15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | 111 1111 1111
 16:00 | 16:30 | tba | tba | 111 1111 1111
 16:30 | 17:00 | Rika Kelemen (IST Austria) | tba | 111 1111 1111
@@ -54,7 +54,7 @@ The Zoom rooms show below will only be active on October 27<sup>th</sup> between
 #### Poster 01: Computational design of a biosensor (Islam A., Loughborouh University)
 Zoom _Meeting ID_: 111 1111 1111
 
-> This is the abstract.
+This is the abstract.
 
 <iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
 
@@ -63,7 +63,7 @@ Zoom _Meeting ID_: 111 1111 1111
 #### Poster 02: Encapsulating viruses (bacteriophages) to treat life-threatening bacterial infection of the colon (Vinner G. K., University of Leicester)
 Zoom _Meeting ID_: 111 1111 1111
 
-> This is the abstract.
+This is the abstract.
 
 <iframe src="https://widgets.figshare.com/articles/9245615/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
 
@@ -72,14 +72,14 @@ Zoom _Meeting ID_: 111 1111 1111
 #### Poster 03: Shipilina's title (Shipilina D., IST Austria)
 Zoom _Meeting ID_: 111 1111 1111
 
-> We studied the lifecycle of _Kamera lens_ and found out that its components derive from recycled conspecifics. Ultimately, we show that the organism's metabolic rate increases 10-fold when being incased in a metallic superstructure.
+We studied the lifecycle of _Kamera lens_ and found out that its components derive from recycled conspecifics. Ultimately, we show that the organism's metabolic rate increases 10-fold when being incased in a metallic superstructure.
 
 <iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
   
 #### Poster 04: Footprints of polygenic adaptation of a quantitative trait under stabilizing selection (Wölfl B., University of Vienna)
 Zoom _Meeting ID_: 111 1111 1111
 
-> We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_.
+We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_.
 
 <iframe src="https://widgets.figshare.com/articles/9641909/embed?show_title=true" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
 
@@ -89,7 +89,7 @@ Zoom _Meeting ID_: 111 1111 1111
 
 > How to __access__ a Zoom meeting as __audience__
 
-<a href="tutorial_zoom_attendee.pdf">Click here to open the PDF with the tutorial.</a>
+Click [here](tutorial_zoom_attendee.pdf) to open the PDF with the tutorial.
 
 ---
 
@@ -97,7 +97,7 @@ Zoom _Meeting ID_: 111 1111 1111
 
 > How to __schedule and open__ a Zoom meeting as a __poster presenter__
 
-<a href="tutorial_zoom_presenter.pdf">Click here to open the PDF with the tutorial.</a>
+Click [here](tutorial_zoom_presenter.pdf) to open the PDF with the tutorial.
 
 ---
 
@@ -105,9 +105,9 @@ Zoom _Meeting ID_: 111 1111 1111
 
 > How to __publish__ your poster on __figshare__
 
-<a href="tutorial_figshare.pdf">Click here to open the PDF with the tutorial.</a>
+Click [here](tutorial_figshare.pdf) to open the PDF with the tutorial.
 
-_Reminder_: If you follow this procedure you are __publishing__ your poster. If you do not like that, please contact a member of the organizing committee.
+_Reminder_: If you follow this procedure you are effectively __publishing__ your poster. If you do not like that, please contact a member of the organizing committee.
 
 ---
 
