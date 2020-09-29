@@ -1,6 +1,6 @@
 # Welcome to the event page of the next EvolVienna meeting on 27<sup>th</sup> October!
 
-[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Support & contact](#support-&-contact) | [Tutorial 1](#tutorial-1) | [Tutorial 2](#tutorial-2) | [Tutorial 3](#tutorial-3)
+[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Support & contact](#support-and-contact) | [Tutorial 1](#tutorial-1) | [Tutorial 2](#tutorial-2) | [Tutorial 3](#tutorial-3)
 
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
 
@@ -111,7 +111,7 @@ __Reminder:__ If you follow this procedure you are effectively __publishing__ yo
 
 ---
 
-### Support & contact
+### Support and contact
 
 In case you have any questions please contact a member of the _EvolVienna meeting organizing committee_:
 - Tom Ellis (GMI - Gregor Mendel Institute of Molecular Plant Biology of the Austrian Academy of Sciences)
