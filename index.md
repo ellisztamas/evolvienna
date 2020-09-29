@@ -1,6 +1,6 @@
 # Welcome to the event page of the next EvolVienna meeting on 27<sup>th</sup> October!
 
-[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Contact](#support-or-contact) | [Tutorial 1](#tutorial1) | [Tutorial 2](#tutorial2) | [Tutorial 3](#tutorial3)
+[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Support & contact](#support-or-contact) | [Tutorial 1](#tutorial1) | [Tutorial 2](#tutorial2) | [Tutorial 3](#tutorial3)
 
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
 
@@ -89,11 +89,15 @@ Zoom _Meeting ID_: 111 1111 1111
 
 > How to __access__ a Zoom meeting as __audience__
 
+<a href="tutorial_zoom_attendee.pdf">Click here to open the PDF with the tutorial.</a>
+
 ---
 
 ### Tutorial 2
 
 > How to __schedule and open__ a Zoom meeting as a __poster presenter__
+
+<a href="tutorial_zoom_presenter.pdf">Click here to open the PDF with the tutorial.</a>
 
 ---
 
@@ -101,6 +105,9 @@ Zoom _Meeting ID_: 111 1111 1111
 
 > How to __publish__ your poster on __figshare__
 
+<a href="tutorial_figshare.pdf">Click here to open the PDF with the tutorial.</a>
+
+_Reminder_: If you follow this procedure you are __publishing__ your poster. If you do not like that, please contact a member of the organizing committee.
 
 ---
 
