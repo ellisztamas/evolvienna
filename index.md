@@ -25,7 +25,7 @@ After the first block of talks (14:40), you can leave the _main room_ in order t
 Start time (CEST) | End time (CEST) | Presenter               | Title                          | Zoom _Meeting ID_
 :----------|:---------|:------------------------|:-------------------------------|:---------
 13:00 | 13:10 | Organizing committee | Introduction | 111 1111 1111
-13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Mutational Dynamics of SARS-CoV-2_ | 111 1111 1111
+13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Hidden tales about intra-host diversity, transmission bottlenecks and super-spreading events in the SARS-CoV-2 genome_ | 111 1111 1111
 13:40 | 14:10 | Tal Dahan (GMI & Weizman Institute) | tba | 111 1111 1111
 14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| _Lemurs_ | 111 1111 1111
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
