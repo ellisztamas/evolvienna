@@ -26,7 +26,7 @@ Start time (CEST) | End time (CEST) | Presenter               | Title           
 :----------|:---------|:------------------------|:-------------------------------|:---------
 13:00 | 13:10 | Organizing committee | Introduction | 111 1111 1111
 13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Mutational Dynamics of SARS-CoV-2_ | 111 1111 1111
-13:40 | 14:10 | Tal Dahan (Weizman Institute) | tba | 111 1111 1111
+13:40 | 14:10 | Tal Dahan (GMI & Weizman Institute) | tba | 111 1111 1111
 14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| _Lemurs_ | 111 1111 1111
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
 15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | 111 1111 1111
