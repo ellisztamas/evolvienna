@@ -25,13 +25,13 @@ After the first block of talks (14:40), you can leave the _main room_ in order t
 Start time (CEST) | End time (CEST) | Presenter               | Title                          | Zoom _Meeting ID_
 :----------|:---------|:------------------------|:-------------------------------|:---------
 13:00 | 13:10 | Organizing committee | Introduction | 111 1111 1111
-13:10 | 13:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| tba | 111 1111 1111
+13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Mutational Dynamics of SARS-CoV-2_ | 111 1111 1111
 13:40 | 14:10 | Tal Dahan (Weizman Institute) | tba | 111 1111 1111
-14:10 | 14:40 | tba | tba | 111 1111 1111
+14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| _Lemurs_ | 111 1111 1111
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
 15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | 111 1111 1111
 16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | 111 1111 1111
-16:30 | 17:00 | Rika Kelemen (IST Austria) | tba | 111 1111 1111
+16:30 | 17:00 | Reka Kelemen (IST Austria) | tba | 111 1111 1111
 
 ## Sign-up
 
