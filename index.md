@@ -129,6 +129,6 @@ Author: Benjamin Wölfl, Department of Mathematics, Oskar-Morgenstern-Platz 1, 1
 
 Big thanks to the _evolVienna_ community for support, attending, talks, poster submissions and lively discussions.
 
-An image by <a href="https://pixabay.com/users/dianaparkhouse-9868127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Diana Parkhouse</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Pixabay</a> was used on this website.
+An image by <a href="https://pixabay.com/users/dianaparkhouse-9868127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Diana Parkhouse</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Pixabay</a> was used on this website. Other images are derived from <a href="https://www.canva.com/">Canva</a> on a _free for noncommerial use_ license. Attributions are not required for both sources.
 
 The author is not responsible for contents in any of the linked URLs.
