@@ -45,26 +45,32 @@ Both registrations __close at October 13<sup>th</sup>__. Shortly after this day,
 
 ## Poster session
 
-The two posters below are just __examples__ from [figshare](https://figshare.com) to show how actual poster will be presented once submitted to us. Those presentations will __not__ take place.
+The two posters below are just __examples__ from [figshare](https://figshare.com) to show how actual poster will be presented once submitted to us. Those example poster presentations currently shown below will of course __not__ take place.
 
-The Zoom rooms shown below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST).
+The Zoom rooms indicated by the Zoom _Meeting IDs_ below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST).
 
-> The required password for all rooms will be sent out via email to all registrants.
+> The required password for all rooms is the same and will be sent out via email to all attendees.
 
 ---
 
 #### Poster 01 (example): _Kamera lens_ thrives in metallic enclosing
+
 Authors: __Jane Smith__<sup>1</sup>, Max Mustermann<sup>2</sup>
+
 Affiliations: <sup>1</sup> Imaginary Institute, <sup>2</sup> Imaginary University
+
 Zoom _Meeting ID_: TBA
 
 We studied the lifecycle of _Kamera lens_ and found out that its components derive from recycled conspecifics. We show that the organism's metabolic rate increases 10-fold when being incased in a metallic superstructure. Our insights hint towards a life cycle change from inhabiting plastic towards metallic superstructures during recent evolution. Ultimately, we show this based on recent genetic changes.
 
-> This author decided not to share her poster.
+> This presenter decided not to share her poster.
   
 #### Poster 02 (example): On the recent evolution of _Spongiforma squarepantsi_
+
 Authors: __Joe Smith__<sup>1</sup>
+
 Affiliations: <sup>1</sup> Imaginary Institute
+
 Zoom _Meeting ID_: TBA
 
 We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_. Our findings are supported by genetic evidence.
@@ -105,10 +111,18 @@ __Reminder:__ If you follow this procedure you are effectively __publishing__ yo
 
 ### Support and contact
 
-In case you have any questions please contact a member of the _EvolVienna meeting organizing committee_:
+In case you have any questions or feedback please contact a member of the _EvolVienna meeting organizing committee_:
 - Tom Ellis (GMI - Gregor Mendel Institute of Molecular Plant Biology of the Austrian Academy of Sciences)
 - Christina Hedderich (University of Vienna, Dep. of Botany and Vienna Grad. School of Population Genetics)
 - Sanjay Narayanaswamy (University of Vienna, Dep. of Neuroscience and Developmental Biology)
 - Daria Shipilina (IST - Institute of Science and Technology Austria)
 - Thomas Wolfe (BOKU - University of Natural Resources and Life Sciences Vienna)
-- Ben Wölfl (University of Vienna, Dep. of Mathematics and Vienna Grad. School of Population Genetics)
+- Benjamin Wölfl (University of Vienna, Dep. of Mathematics and Vienna Grad. School of Population Genetics)
+
+### Author and acknowledgements
+
+Author: Benjamin Wölfl, Department of Mathematics, Oskar-Morgenstern-Platz 1, 1090 Wien, Austria
+
+Big thanks to the _EvolVienna_ community for support, attending, talks, poster submissions and lively discussions.
+
+An image by <a href="https://pixabay.com/users/dianaparkhouse-9868127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Diana Parkhouse</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Pixabay</a> was used on this website.
