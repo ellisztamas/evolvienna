@@ -4,7 +4,7 @@
 
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
 
-<iframe src="evolVienna_meeting_27_Oct_2020_invite_poster.pdf" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+<iframe src="evolVienna_meeting_27_Oct_2020_invite_poster.pdf" width="100%" height="250px" allowfullscreen="true" frameborder="0" title="Event poster"></iframe>
 
 Due to COVID-19, this [EvolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
 
