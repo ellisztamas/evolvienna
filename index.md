@@ -4,6 +4,8 @@
 
 [![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
 
+<iframe src="evolVienna_meeting_27_Oct_2020_invite_poster.pdf" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+
 Due to COVID-19, this [EvolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
 
 We will have __six__ interesting [speakers](#schedule) and we are delighted to announce that this meeting will also include an online [poster session](#poster-session)! Posters will be hosted on [figshare](https://figshare.com/) and discussion will take place via individual Zoom meetings. Since we are not limited by physical space, we can __accept all poster submissions__, so we encourage as many folks as possible to present.
@@ -45,11 +47,13 @@ Both registrations __close at October 13<sup>th</sup>__. Shortly after this day,
 
 ## Poster session
 
-The two posters below are just __examples__ from [figshare](https://figshare.com) to show how actual poster will be presented once submitted to us. Those example poster presentations currently shown below will of course __not__ take place.
+The two posters below are just __examples__ from [figshare](https://figshare.com) to show how actual poster will be presented once submitted to us, such that you get acquainted with it. Those example poster presentations currently shown below will of course __not__ take place.
 
 The Zoom rooms indicated by the Zoom _Meeting IDs_ below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST).
 
-> The required password for all rooms is the same and will be sent out via email to all attendees.
+The required password for all rooms is the same and will be sent out via email to all attendees.
+
+> __Important:__ As soon as the first poster submission is finalized, the example posters will be removed and you will see a gradual accumulation of the actual posters here.
 
 ---
 
@@ -126,3 +130,5 @@ Author: Benjamin Wölfl, Department of Mathematics, Oskar-Morgenstern-Platz 1, 1
 Big thanks to the _EvolVienna_ community for support, attending, talks, poster submissions and lively discussions.
 
 An image by <a href="https://pixabay.com/users/dianaparkhouse-9868127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Diana Parkhouse</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Pixabay</a> was used on this website.
+
+The author is not responsible for contents in any of the linked URLs.
