@@ -22,16 +22,18 @@ All talks besides the poster session will take place in the same Zoom meeting ro
 
 After the first block of talks (14:40), you can leave the _main room_ in order to visit different _poster rooms_ during the poster session (14:45-15:25). Please make sure that you arrive back in the _main room_ before the second block of talks starts (15:30).
 
+The following schedule is preliminary:
+
 Start time (CEST) | End time (CEST) | Presenter               | Title                          | Zoom _Meeting ID_
 :----------|:---------|:------------------------|:-------------------------------|:---------
-13:00 | 13:10 | Organizing committee | Introduction | 111 1111 1111
-13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Hidden tales about intra-host diversity, transmission bottlenecks and super-spreading events in the SARS-CoV-2 genome_ | 111 1111 1111
-13:40 | 14:10 | Tal Dahan (GMI & Weizman Institute) | tba | 111 1111 1111
-14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| _Lemurs_ | 111 1111 1111
+13:00 | 13:10 | Organizing committee | Introduction | TBA
+13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Hidden tales about intra-host diversity, transmission bottlenecks and super-spreading events in the SARS-CoV-2 genome_ | TBA
+13:40 | 14:10 | Tal Dahan (GMI & Weizman Institute) | TBA | TBA
+14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| TBA | TBA
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
-15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | 111 1111 1111
-16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | 111 1111 1111
-16:30 | 17:00 | Reka Kelemen (IST Austria) | tba | 111 1111 1111
+15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | TBA
+16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | TBA
+16:30 | 17:00 | Reka Kelemen (IST Austria) | TBA | TBA
 
 ## Sign-up
 
@@ -43,45 +45,35 @@ Both registrations __close at October 13<sup>th</sup>__. Shortly after this day,
 
 ## Poster session
 
-The data below are just random examples from [figshare](https://figshare.com). Those presentations will __not__ take place.
+The two posters below are just __examples__ from [figshare](https://figshare.com) to show how actual poster will be presented once submitted to us. Those presentations will __not__ take place.
 
-The Zoom rooms show below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST).
+The Zoom rooms shown below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST).
 
 > The required password for all rooms will be sent out via email to all registrants.
 
 ---
 
-#### Poster 01: Computational design of a biosensor (Islam A., Loughborouh University)
-Zoom _Meeting ID_: 111 1111 1111
+#### Poster 01 (example): _Kamera lens_ thrives in metallic enclosing
+Authors: __Jane Smith__<sup>1</sup>, Max Mustermann<sup>2</sup>
+Affiliations: <sup>1</sup> Imaginary Institute, <sup>2</sup> Imaginary University
+Zoom _Meeting ID_: TBA
 
-This is the abstract.
+We studied the lifecycle of _Kamera lens_ and found out that its components derive from recycled conspecifics. We show that the organism's metabolic rate increases 10-fold when being incased in a metallic superstructure. Our insights hint towards a life cycle change from inhabiting plastic towards metallic superstructures during recent evolution. Ultimately, we show this based on recent genetic changes.
 
-<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
-
----
-
-#### Poster 02: Encapsulating viruses (bacteriophages) to treat life-threatening bacterial infection of the colon (Vinner G. K., University of Leicester)
-Zoom _Meeting ID_: 111 1111 1111
-
-This is the abstract.
-
-<iframe src="https://widgets.figshare.com/articles/9245615/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
-
----
-
-#### Poster 03: Shipilina's title (Shipilina D., IST Austria)
-Zoom _Meeting ID_: 111 1111 1111
-
-We studied the lifecycle of _Kamera lens_ and found out that its components derive from recycled conspecifics. Ultimately, we show that the organism's metabolic rate increases 10-fold when being incased in a metallic superstructure.
-
-<iframe src="https://widgets.figshare.com/articles/9757571/embed?show_title=1" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+> This author decided not to share her poster.
   
-#### Poster 04: Footprints of polygenic adaptation of a quantitative trait under stabilizing selection (Wölfl B., University of Vienna)
-Zoom _Meeting ID_: 111 1111 1111
+#### Poster 02 (example): On the recent evolution of _Spongiforma squarepantsi_
+Authors: __Joe Smith__<sup>1</sup>
+Affiliations: <sup>1</sup> Imaginary Institute
+Zoom _Meeting ID_: TBA
 
-We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_.
+We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_. Our findings are supported by genetic evidence.
 
 <iframe src="https://widgets.figshare.com/articles/9641909/embed?show_title=true" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+
+---
+
+## Tutorials
 
 ---
 
