@@ -4,9 +4,9 @@
 
 <!-- [![evolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/) -->
 
-<iframe src="https://github.com/coding-benjito/evolvienna/blob/gh-pages/evolVienna_meeting_27_Oct_2020_invite_poster.pdf" width="100%" height="250px" allowfullscreen="true" frameborder="0" title="Event poster"></iframe>
+![Event poster](evolVienna_meeting_27_Oct_2020_invite_poster.pdf)
 
-Due to COVID-19, this [EvolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
+Due to COVID-19, this [evolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
 
 We will have __six__ interesting [speakers](#schedule) and we are delighted to announce that this meeting will also include an online [poster session](#poster-session)! Posters will be hosted on [figshare](https://figshare.com/) and discussion will take place via individual Zoom meetings. Since we are not limited by physical space, we can __accept all poster submissions__, so we encourage as many folks as possible to present.
 
@@ -115,7 +115,7 @@ __Reminder:__ If you follow this procedure you are effectively __publishing__ yo
 
 ### Support and contact
 
-In case you have any questions or feedback please contact a member of the _EvolVienna meeting organizing committee_:
+In case you have any questions or feedback please contact a member of the _evolVienna meeting organizing committee_:
 - Tom Ellis (GMI - Gregor Mendel Institute of Molecular Plant Biology of the Austrian Academy of Sciences)
 - Christina Hedderich (University of Vienna, Dep. of Botany and Vienna Grad. School of Population Genetics)
 - Sanjay Narayanaswamy (University of Vienna, Dep. of Neuroscience and Developmental Biology)
@@ -127,7 +127,7 @@ In case you have any questions or feedback please contact a member of the _EvolV
 
 Author: Benjamin Wölfl, Department of Mathematics, Oskar-Morgenstern-Platz 1, 1090 Wien, Austria
 
-Big thanks to the _EvolVienna_ community for support, attending, talks, poster submissions and lively discussions.
+Big thanks to the _evolVienna_ community for support, attending, talks, poster submissions and lively discussions.
 
 An image by <a href="https://pixabay.com/users/dianaparkhouse-9868127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Diana Parkhouse</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Pixabay</a> was used on this website.
 
