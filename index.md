@@ -4,9 +4,7 @@
 
 <!-- [![evolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/) -->
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/coding-benjito/evolvienna/blob/gh-pages/evolVienna_meeting_27_Oct_2020_invite_poster.pdf&embedded=true" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
-
-![Event poster](evolVienna_meeting_27_Oct_2020_invite_poster.pdf)
+[![evolVienna meeting invite poster](evolVienna_meeting_27_Oct_2020_invite_poster.png)](evolVienna_meeting_27_Oct_2020_invite_poster.pdf)
 
 Due to COVID-19, this [evolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
 
