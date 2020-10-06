@@ -1,10 +1,10 @@
-# Welcome to the event page of the next EvolVienna meeting on 27<sup>th</sup> October!
+# Welcome to the event page of the next evolVienna meeting on 27<sup>th</sup> October!
 
 [Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Support & contact](#support-and-contact) | [Tutorial 1](#tutorial-1) | [Tutorial 2](#tutorial-2) | [Tutorial 3](#tutorial-3)
 
-[![EvolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/)
+<!-- [![evolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/) -->
 
-<iframe src="evolVienna_meeting_27_Oct_2020_invite_poster.pdf" width="100%" height="250px" allowfullscreen="true" frameborder="0" title="Event poster"></iframe>
+<iframe src="https://github.com/coding-benjito/evolvienna/blob/gh-pages/evolVienna_meeting_27_Oct_2020_invite_poster.pdf" width="100%" height="250px" allowfullscreen="true" frameborder="0" title="Event poster"></iframe>
 
 Due to COVID-19, this [EvolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
 
