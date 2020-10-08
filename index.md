@@ -35,7 +35,7 @@ Start time (CEST) | End time (CEST) | Presenter               | Title           
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
 15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | TBA
 16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | TBA
-16:30 | 17:00 | Reka Kelemen (IST Austria) | TBA | TBA
+16:30 | 17:00 | Reka Kelemen (IST Austria) | _Evolutionary and functional genomics of the t-haplotype, a model meiotic driver_ | TBA
 
 ## Sign-up
 
@@ -131,4 +131,4 @@ Big thanks to the _evolVienna_ community for support, attending, talks, poster s
 
 An image by <a href="https://pixabay.com/users/dianaparkhouse-9868127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Diana Parkhouse</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4551691">Pixabay</a> was used on this website. Other images are derived from <a href="https://www.canva.com/">Canva</a> on a _free for noncommerial use_ license. Attributions are not required for both sources.
 
-The author is not responsible for contents in any of the linked URLs.
+The author is not responsible for contents in any of the linked URLs. If you do not like something about this website, please create a pull request or contact us.
