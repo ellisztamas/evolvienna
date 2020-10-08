@@ -6,11 +6,7 @@
 
 [![evolVienna meeting invite poster](evolVienna_meeting_27_Oct_2020_invite_poster_low_quality.jpg)](evolVienna_meeting_27_Oct_2020_invite_poster.pdf)
 
-Due to COVID-19, this [evolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required.
-
-We will have __six__ interesting [speakers](#schedule) and we are delighted to announce that this meeting will also include an online [poster session](#poster-session)! Posters will be hosted on [figshare](https://figshare.com/) and discussion will take place via individual Zoom meetings. Since we are not limited by physical space, we can __accept all poster submissions__, so we encourage as many folks as possible to present.
-
-Upon trying to enter any of the Zoom meetings you will be prompted to enter a password. All Zoom rooms require the __same password__. You will receive this password __via email__ after your [sign-up](#sign-up) was confirmed. Apart from the password, this __event page__ should contain __all__ necessary information about this event.
+Due to COVID-19, this [evolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required. We will have __six__ interesting [speakers](#schedule) and we are delighted to announce that this meeting will also include an online [poster session](#poster-session)!
 
 > Registration for this event closes at 13<sup>th</sup> October.
 
@@ -20,7 +16,7 @@ Please make sure that you are able to enter Zoom meetings using a __Meeting ID__
 
 The meeting will take place __online__ on Tuesday, 27<sup>th</sup> October, 2020, between 13:00 and 17:00 (CEST).
 
-All talks besides the poster session will take place in the same Zoom meeting room (__main room__) provided by _IST Austria_.
+All talks besides the poster session will take place in the same Zoom meeting room (__main room__) provided by _IST Austria_. We will send the details of the meeting room and password closer to the date.
 
 After the first block of talks (14:40), you can leave the _main room_ in order to visit different _poster rooms_ during the poster session (14:45-15:25). Please make sure that you arrive back in the _main room_ before the second block of talks starts (15:30).
 
@@ -30,12 +26,12 @@ Start time (CEST) | End time (CEST) | Presenter               | Title           
 :----------|:---------|:------------------------|:-------------------------------|:---------
 13:00 | 13:10 | Organizing committee | Introduction | TBA
 13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Hidden tales about intra-host diversity, transmission bottlenecks and super-spreading events in the SARS-CoV-2 genome_ | TBA
-13:40 | 14:10 | Tal Dahan (GMI & Weizman Institute) | _Resilience of a wild wheat population structure over 36 years of collection_ | TBA
+13:40 | 14:10 | Tal Dahan (GMI & Weizman Institute; presentation by Tom Ellis) | _Resilience of a wild wheat population structure over 36 years of collection_ | TBA
 14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| TBA | TBA
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
 15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | TBA
 16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | TBA
-16:30 | 17:00 | Reka Kelemen (IST Austria) | TBA | TBA
+16:30 | 17:00 | Reka Kelemen (IST Austria) | _Evolutionary and functional genomics of the t-haplotype, a model meiotic driver_ | TBA
 
 ## Sign-up
 
@@ -47,11 +43,11 @@ Both registrations __close at October 13<sup>th</sup>__. Shortly after this day,
 
 ## Poster session
 
-The two posters below are just __examples__ from [figshare](https://figshare.com) to show how actual poster will be presented once submitted to us, such that you get acquainted with it. Those example poster presentations currently shown below will of course __not__ take place.
+The idea is that presenters upload their poster to figshare, and links to each poster will be posted here. Each presenter will host a (free, 40-minute) Zoom meeting where they can discuss it, and the audience can freely enter and leave meetings as they please. Since we are not limited by physical space, we can __accept all poster submissions__, so we encourage as many folks as possible to present.
 
-The Zoom rooms indicated by the Zoom _Meeting IDs_ below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST).
+We will send detailled instructions about setting up figshare and your Zoom meeting after registration has closed on 13th October by email. The Zoom discussions will be private to people who have registered for the meeting. However, please be aware that posters shared on figshare will be public. If you do not want your poster to be published online, please contact Ben Wölfl (benjamin.woelfl@univie.ac.at). 
 
-The required password for all rooms is the same and will be sent out via email to all attendees.
+The two posters below are just __examples__ from [figshare](https://figshare.com) to show how actual poster will be presented once submitted to us, such that you get acquainted with it. Those example poster presentations currently shown below will of course __not__ take place. The Zoom rooms indicated by the Zoom _Meeting IDs_ below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST). The required password for all rooms is the same and will be sent out via email to all attendees.
 
 > __Important:__ As soon as the first poster submission is finalized, the example posters will be removed and you will see a gradual accumulation of the actual posters here.
 
@@ -116,12 +112,11 @@ __Reminder:__ If you follow this procedure you are effectively __publishing__ yo
 ### Support and contact
 
 In case you have any questions or feedback please contact a member of the _evolVienna meeting organizing committee_:
-- Tom Ellis (GMI - Gregor Mendel Institute of Molecular Plant Biology of the Austrian Academy of Sciences)
-- Christina Hedderich (University of Vienna, Dep. of Botany and Vienna Grad. School of Population Genetics)
-- Sanjay Narayanaswamy (University of Vienna, Dep. of Neuroscience and Developmental Biology)
-- Daria Shipilina (IST - Institute of Science and Technology Austria)
-- Thomas Wolfe (BOKU - University of Natural Resources and Life Sciences Vienna)
-- Benjamin Wölfl (University of Vienna, Dep. of Mathematics and Vienna Grad. School of Population Genetics)
+- Benjamin Wölfl (Maths dept - benjamin.woelfl@univie.ac.at)
+- Tom Ellis (GMI - thomas.ellis@gmi.oeaw.ac.at)
+- Christina Hedderich (Botany dept - christina.hedderich@univie.ac.at)
+- Sanjay Narayanaswamy (Althanstraße, Uni Wien - sathyasaisanjay@gmail.com)
+- Daria Shipilina (IST - daria.shipilina@ist.ac.at)
 
 ### Author and acknowledgements
 
