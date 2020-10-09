@@ -33,7 +33,7 @@ Start time (CEST) | End time (CEST) | Presenter               | Title           
 13:40 | 14:10 | Tal Dahan (GMI & Weizman Institute) | _Resilience of a wild wheat population structure over 36 years of collection_ | TBA
 14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| TBA | TBA
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
-15:30 | 16:00 | Sonya Widen (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | TBA
+15:30 | 16:00 | Alevtina Koreshova (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | TBA
 16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | TBA
 16:30 | 17:00 | Reka Kelemen (IST Austria) | TBA | TBA
 
