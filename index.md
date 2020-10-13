@@ -53,7 +53,7 @@ The two posters below are just __examples__ from figshare to show how actual pos
 
 ---
 
-#### Poster 01 (example): _Kamera lens_ thrives in metallic enclosing
+#### Poster example a: _Kamera lens_ thrives in metallic enclosing
 
 Authors: __Jane Smith__<sup>1</sup>, Max Mustermann<sup>2</sup>
 
@@ -65,7 +65,7 @@ We studied the lifecycle of _Kamera lens_ and found out that its components deri
 
 > This presenter decided not to share her poster.
   
-#### Poster 02 (example): On the recent evolution of _Spongiforma squarepantsi_
+#### Poster example b: On the recent evolution of _Spongiforma squarepantsi_
 
 Authors: __Joe Smith__<sup>1</sup>
 
@@ -76,6 +76,198 @@ Zoom _Meeting ID_: TBA
 We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_. Our findings are supported by genetic evidence.
 
 <iframe src="https://widgets.figshare.com/articles/9641909/embed?show_title=true" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+
+---
+
+#### Poster 01: Maintenance Mechanisms of Trans-Specific Polymorphism in the _Arabidopsis_ Clade
+
+Authors: __Krzysztof Stankiewicz__<sup>1</sup> et al.
+
+Affiliations: <sup>1</sup> Department of Mathematics, University of Vienna & Vienna Grad. School of Pop. Gen.
+
+Zoom _Meeting ID_: TBA
+
+TBA
+
+---
+
+#### Poster 02: TBA
+
+Authors: __Benjamin Wölfl__<sup>1</sup> et al.
+
+Affiliations: <sup>1</sup> Department of Mathematics, University of Vienna & Vienna Grad. School of Pop. Gen.
+
+Zoom _Meeting ID_: TBA
+
+TBA
+
+---
+
+#### Poster 03: Multiple haplotype reconstruction from allele frequency data
+
+Authors: __Marta Pelizzola__ <sup>1</sup>, Merle Behr, Housen Li, Axel Munk, Andreas Futschik
+
+Affiliations: <sup>1</sup> Department of Population Genetics, Veterinary Medical University of Vienna & Vienna Grad. School of Pop. Gen.
+
+Zoom _Meeting ID_: TBA
+
+Evolve and Resequence (E&R) methods follow many replicate populations of a given model organism, like _C. elegans_ or _Drosophila_, throughout time in order to understand how it adapts to different conditions. It has been shown that performing pool sequencing of one population instead of individual sequencing can give the same sequencing coverage with much lower costs. Furthermore, the power of detecting SNPs being targets of selection stays high. However, by doing so, the haplotype information is lost. Starting from pool sequenced data, our goal is to characterize the haplotype structure and to disentangle the possible patterns of selection in the data. We are investigating trajectories of haplotypes given different selection pressures, how the haplotype structure can help in identifying the truly causal SNPs and which starting condition of the experiment would favor the haplotype reconstruction and the detection of the SNPs driving adaptation. 
+The first step of our research consists in reconstructing the haplotype structure and the haplotype frequency given time series of allele frequency from pool sequencing only. We are currently aiming to extend this work and we are working on a method to detect signatures of selection using the haplotype information we are able to retrieve from the allele frequencies.
+
+---
+
+#### Poster 04: Temperature adaptation in _Arabidopsis thaliana_
+
+Authors: __Pieter Clauw__ <sup>1</sup>, Magnus Nordborg
+
+Affiliations: <sup>1</sup> Vienna Bio Center
+
+Zoom _Meeting ID_: TBA
+
+Climate variation exerts significant evolutionary pressure on plants. _Arabidopsis thaliana_ has a large geographic range and local varieties have acquired specific adaptations to their local environment. As a winter-annual, A. thaliana grows during autumn under decreasing temperatures that are usually considerably lower than standard lab conditions. Northern varieties may never experience temperatures above 10ºC until they are about to flower in spring. Although we expect northern strains (natural inbred lines, or “accessions”) to be adapted to lower temperatures, the importance of temperature adaptation and the mechanisms involved are not known.
+We exposed 250 accessions from south-Spain to northern-Sweden to ecological relevant autumn temperatures. Our experiments indicate that growth of accessions coming from colder regions is less affected by colder temperatures compared to accessions from warmer regions.
+Genome wide association mapping (GWAS) hints towards a polygenic trait architecture.
+Besides growth measurements we have obtained primary metabolome data for 241 accessions in both temperatures. The over all 37 metabolites we find the northern accessions to show a much more pronounced metabolic response to the temperature difference than the southern accessions. We think the increased metabolic response is an actively regulated preparation for colder temperatures, a so-called cold acclimation. The increased expression of a set of well-described cold acclimation genes in a limited set of northern accessions seems to confirm that idea.
+Along those lines it is also to be expected that the smaller rosette sizes in northern accessions are due to an active growth inhibition. Smaller plants cope better with adverse conditions.
+We are now further investigating the polygenicity of plant growth and it's response to temperature by running GWAS and calculating polygenic scores. To reduce the complexity of plant growth we are also attempting to split up this complex trait in less-complex metabolic sub-traits. Together with the hypothesis that cold acclimation is playing an important role in temperature adaptation we hope to further elucidate one aspect of local adaptation in _Arabidopsis thaliana_.
+
+---
+
+#### Poster 05: A novel toxin-antidote element in _C. tropicalis_
+
+Authors: __Daniel Krogull__<sup>1</sup>
+
+Affiliations: <sup>1</sup> Vienna Bio Center
+
+Zoom _Meeting ID_: TBA
+
+TBA
+
+---
+
+#### Poster 06: Antagonistic coevolution in the Picea-Ips pathosystem
+
+Authors: Kelly Swarts, Miroslav Polacek, Alexis Arizpe, __Lisa Weidlich__ <sup>1</sup>
+
+Affiliations: <sup>1</sup> Vienna Bio Center
+
+Zoom _Meeting ID_: TBA
+
+In the northern hemisphere the European Spruce Bark Beetle (Ips typographus) is one of the major disturbance factors in Norway Spruce (Picea abies) stands and the severity is expected to increase with climate change. To understand the genetics underlaying the Picea-Ips pathosystem dynamics better, we established our first pilot project, including repeated paired sampling of both spruce and beetles from plots under immediate threat of bark beetle infestation in central Europe. Our goals are (1) to understand genetic consequences of epidemic phase bark beetle population dynamics over the course of a year, (2) to identify regions of the genome associated with virulence in beetles and resistance in trees and (3) to test for selective response to the partner phenotype.
+
+---
+
+#### Poster 07: Genetic architecture for CG gene-body methylation in _Arabidopsis thaliana_
+
+Authors: __Rahul Pisupati__ <sup>1</sup>, Magnus Nordborg
+
+Affiliations: <sup>1</sup> Vienna Bio Center & Vienna Grad. School of Population Genetics
+
+Zoom _Meeting ID_: TBA
+
+TBA
+
+---
+
+#### Poster 08: Three-way crosses of _Drosophila melanogaster_ inbred strains provides insight into epistatic interactions and dominance relationships using Evolve and Resequencing 
+
+Authors: __Claire Burny__ <sup>1</sup>, Viola Nolte, Marlies Dolezal, Christian Schlötterer
+
+Affiliations: <sup>1</sup> Veterinary Medical University of Vienna & Vienna Grad. School of Pop. Gen.
+
+Zoom _Meeting ID_: TBA
+
+Many adaptive traits are determined by numerous genes and the smaller the genes contributions, the more additivity is expected. Consequently, polygenicity complicates the study of genetic interactions as weak epistasis might be common for highly polygenic traits but hard to quantify. Experimental evolution is a useful approach to study the adaptive architecture, using replicated populations maintained in new environments. We propose to study the interplay between effect size, the degree of additivity and dominance with an Evolve and Re-sequencing (E&R) design using three Drosophila melanogaster inbred strains - Samarkand (S), Oregon-R (O) and Helsinki (H). Four replicates of two-genotype combinatorial crosses (S⨉O, S⨉H and O⨉H) are maintained in an extreme thermal environment (constant 29°C). All four replicates display a strong and parallel selection response within each cross after 10 generations. However, the frequency of a given genotype is dependent on the cross; this suggests that pervasive (high-order gene-by-gene) epistatic interactions can be detected in our evolved populations that experienced strong allele frequency changes. We then use the allele frequency of a given genotype across the crosses to refine the selection coefficient (s) and dominance (h) estimates and to test different assumptions about dominance (additivity, deviation from additivity and possibly s vs h dependencies). We plan to use the relative allele frequency across the crosses to infer dominance hierarchy between the three genotypes. We eventually suggest that such replicated E&R combinatorial crosses allow to reveal latent epistasis and to refine the estimates of dominance.
+
+---
+
+#### Poster 09: Chromatin conformation in _Drosophila melanogaster_ dosage compensated male X-chromosome
+
+Authors: __Lubna Younas__<sup>1</sup>, Mujahid Ali, Qi Zhou
+
+Affiliations: <sup>1</sup> Althanstraße, University of Vienna
+
+Zoom _Meeting ID_: TBA
+
+In _Drosophila melanogaster_ the single male chromosome X (chrX) undergoes
+an average twofold transcriptional upregulation for balancing the
+transcriptional output between sexes. All the previous dosage compensation
+(DC) studies focused on linear information instead of 3D chromatin
+conformation. In our study, we found that DC in Drosophila is spatiotemporally
+regulated and the degree of DC varies during development. Then further we
+explored the role of chromatin 3D organization in binding and localization of
+MSL-complex. we examined the 3D chromatin organization of dosage
+compensated chrX using high-resolution Hi-C data in different developmental
+stages and adult tissues. We detected the global and local differences in the
+long-range interaction profiles in dosage compensated male chrX. We also
+noticed that the male chrX has more long-range interactions that increases
+during development and realized that the single copy male chrX has a more
+flexible and open chromatin. Our observations indicated that MSL binding sites
+(HAS and PionX) are in spatial contacts located within active chromatin regions
+on the chrX, while PionX sites showed higher long-range interactions during
+the early establishment of DC and later replaced by HAS. However, the 1.688x 3F
+satellite repeats play an important role in recognition of chrX and facilitate the
+binding and spreading of MSL-complex during development by modulating the
+local chromatin environment through long range interactions.
+Together, our data indicate that chromosome X dosage compensation affects
+global and local chromosome structure.
+
+---
+
+#### Poster 10: _In vitro_ reconstruction of avian skin and comparative transcriptomics suggest evolutionarily ancient control of epidermal barrier functions in terrestrial vertebrates
+
+Authors: __Julia Lachner__ <sup>1</sup>, Sophia Derdak, Florian Ehrlich, Tanja Wagner, Michael Mildner, Erwin Tschachler, Leopold Eckhart
+
+Affiliations: <sup>1</sup> Medical University of Vienna
+
+Zoom _Meeting ID_: TBA
+
+The evolutionary transition to life on land depended on an efficient skin barrier
+against mechanical insults and transcutaneous water loss. This barrier is
+formed and constantly renewed by epidermal keratinocytes which differentiate
+into rigid corneocytes and secrete lipids to seal the intercellular space on the
+skin surface. We hypothesized that the epidermal barrier function of terrestrial
+vertebrates is controlled by an evolutionarily ancient gene expression program
+shared by phylogenetically diverse amniotes. To test this hypothesis, we
+determined the dynamics of global gene expression during avian keratinocyte
+differentiation in a newly established 3-dimensional in vitro skin model and
+compared it with a mammalian counterpart (human skin model). The common
+differentiation program of chicken and human keratinocytes included keratin
+intermediate filaments, proteins of the epidermal differentiation complex (EDC),
+enzymes involved in the synthesis of skin barrier lipids and a distinct set of
+other proteins. Interestingly, interleukin-36 receptor antagonist (IL36RN) was
+transcriptionally upregulated in differentiating keratinocytes of both species,
+suggesting that this anti-inflammatory protein plays a conserved role in the
+suppression of inflammation at the skin barrier. Many but not all of the
+terrestrial skin barrier genes are specific for amniotes and expressed only in
+the epidermis. In conclusion, the comparative analysis of keratinocytes from
+phylogenetically diverse species under defined in vitro differentiation
+conditions identifies evolutionary ancient genes the control epidermal barrier
+formation and maintenance.
+
+---
+
+#### Poster 11: Selective elimination of positive length variants contributes to genome shrinkage in _Arabidopsis_
+
+Authors: __Robin Burns__<sup>1</sup>, Magnus Nordborg
+
+Affiliations: <sup>1</sup> Vienna Bio Center
+
+Zoom _Meeting ID_: TBA
+
+Angiosperms (flowering plants) vary almost 2000 fold in their genome size. Major processes that lead to genome size expansion are: polyploidization, transposable element (TE) proliferation and supernumerary ribosome DNA (rDNA) copies. Countering this, several mechanisms leading to genome-shrinkage include: the wholesale loss of chromosomes, ectopic recombination and single strand annealing during DNA repair. While the molecular mechanisms underlying these processes are being studied, the nature of the relationship between selection and genome size is not well understood. Arabidopsis is a useful genus to study large genome size change over short evolutionary time. The selfing plant A. thaliana has a small streamlined genome (125Mb) compared to that of the outcrossing perennial A. lyrata (207Mb), which has a more repeat rich genome and ~200Mb is the average genome size for the rest of the genus. Previous work attributed the smaller genome size in A. thaliana to multiple small deletions occurring along the branch after the species split ~6 Mya. However, this conclusion was based on a single reference genome for both species. By assembling 2 additional long read reference genomes of A. lyrata we find many of these deletions to be segregating in A. lyrata as well (and largely fixed in A. thaliana). This suggests that strong selection against positive length variants from standing variation in the ancestor species contributed to genome shrinkage in A. thaliana, and that when comparing genome size, using a single reference genome for a species can lead to incorrect conclusions. Currently, we are examining short reads for a population of A. lyrata lines (n=125) using kmers to call the presence absence of these indels. We aim determine what selection is acting on them in A. lyrata and compare and contrast selection on genome size between selfers and outcrossers.
+
+---
+
+#### Poster 12: Transposon dynamics in _Arabidopsis thaliana_
+
+Authors: __Luz Mayela Soto-Jimenez__ <sup>1</sup>, Magnus Nordborg
+
+Affiliations: <sup>1</sup> Vienna Bio Center
+
+Zoom _Meeting ID_: TBA
+
+TBA
 
 ---
 
