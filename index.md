@@ -114,6 +114,8 @@ Zoom _Meeting ID_: TBA
 Evolve and Resequence (E&R) methods follow many replicate populations of a given model organism, like _C. elegans_ or _Drosophila_, throughout time in order to understand how it adapts to different conditions. It has been shown that performing pool sequencing of one population instead of individual sequencing can give the same sequencing coverage with much lower costs. Furthermore, the power of detecting SNPs being targets of selection stays high. However, by doing so, the haplotype information is lost. Starting from pool sequenced data, our goal is to characterize the haplotype structure and to disentangle the possible patterns of selection in the data. We are investigating trajectories of haplotypes given different selection pressures, how the haplotype structure can help in identifying the truly causal SNPs and which starting condition of the experiment would favor the haplotype reconstruction and the detection of the SNPs driving adaptation. 
 The first step of our research consists in reconstructing the haplotype structure and the haplotype frequency given time series of allele frequency from pool sequencing only. We are currently aiming to extend this work and we are working on a method to detect signatures of selection using the haplotype information we are able to retrieve from the allele frequencies.
 
+<iframe src="https://widgets.figshare.com/articles/13110689/embed?show_title=true" width="100%" height="250px" allowfullscreen frameborder="0"></iframe>
+
 ---
 
 #### Poster 04: Temperature adaptation in _Arabidopsis thaliana_
