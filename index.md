@@ -90,7 +90,7 @@ Authors: __Pieter Clauw__ <sup>1</sup>, Magnus Nordborg
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: TBA
+Zoom _Meeting ID_: 743 3769 8349
 
 Climate variation exerts significant evolutionary pressure on plants. _Arabidopsis thaliana_ has a large geographic range and local varieties have acquired specific adaptations to their local environment. As a winter-annual, A. thaliana grows during autumn under decreasing temperatures that are usually considerably lower than standard lab conditions. Northern varieties may never experience temperatures above 10ºC until they are about to flower in spring. Although we expect northern strains (natural inbred lines, or “accessions”) to be adapted to lower temperatures, the importance of temperature adaptation and the mechanisms involved are not known.
 We exposed 250 accessions from south-Spain to northern-Sweden to ecological relevant autumn temperatures. Our experiments indicate that growth of accessions coming from colder regions is less affected by colder temperatures compared to accessions from warmer regions.
@@ -133,9 +133,9 @@ Authors: __Rahul Pisupati__ <sup>1</sup>, Magnus Nordborg
 
 Affiliations: <sup>1</sup> Vienna Bio Center & Vienna Grad. School of Population Genetics
 
-Zoom _Meeting ID_: TBA
+Zoom _Meeting ID_: 793 9918 3203
 
-TBA
+Transgenerational epigenetic inheritance is a common phenomenon in plants. Experiments in Arabidopsis thaliana show that epigenetic marks, such as cytosine methylation, can be faithfully inherited over generations. This type of inherited material is often termed the epi-genotype. However, recent genome-wide association studies (GWAS) using epigenetic marks as traits have shown that there are major-effect loci affecting methylation across the genome. These findings suggest that the variation we observe is instead a phenotype. In addition, transposable elements (TEs) and repetitive elements would change methylation in their proximity. It remains unclear how the above factors shape the global pattern of methylation variation. The goal of the project is to quantitatively distinguish various factors affecting methylation variation in natural lines. Here, I am mainly focusing on CG gene-body methylation variation since it is shown to be faithfully inherited and determine its genetic basis.
 
 ---
 
