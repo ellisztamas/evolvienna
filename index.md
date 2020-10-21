@@ -47,35 +47,9 @@ The idea is that presenters upload their poster to [figshare](https://figshare.c
 
 We will send detailled instructions about setting up figshare and your Zoom meeting after registration has closed on 13th October by email. The Zoom discussions will be private to people who have registered for the meeting. However, please be aware that posters shared on figshare will be public. If you do not want your poster to be published online, please contact Ben Wölfl (benjamin.woelfl@univie.ac.at). 
 
-The two posters below are just __examples__ from figshare to show how actual poster will be presented once submitted to us, such that you get acquainted with it. Those example poster presentations currently shown below will of course __not__ take place. The Zoom rooms indicated by the Zoom _Meeting IDs_ below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST). The required password for all rooms is the same and will be sent out via email to all attendees.
+The Zoom rooms indicated by the Zoom _Meeting IDs_ below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST). The required password for all rooms is the same and will be sent out via email to all attendees.
 
-> __Important:__ As soon as the first poster submission is finalized, the example posters will be removed and you will see a gradual accumulation of the actual posters here.
-
----
-
-#### Poster example a: _Kamera lens_ thrives in metallic enclosing
-
-Authors: __Jane Smith__<sup>1</sup>, Max Mustermann<sup>2</sup>
-
-Affiliations: <sup>1</sup> Imaginary Institute, <sup>2</sup> Imaginary University
-
-Zoom _Meeting ID_: TBA
-
-We studied the lifecycle of _Kamera lens_ and found out that its components derive from recycled conspecifics. We show that the organism's metabolic rate increases 10-fold when being incased in a metallic superstructure. Our insights hint towards a life cycle change from inhabiting plastic towards metallic superstructures during recent evolution. Ultimately, we show this based on recent genetic changes.
-
-> This presenter decided not to share her poster.
-  
-#### Poster example b: On the recent evolution of _Spongiforma squarepantsi_
-
-Authors: __Joe Smith__<sup>1</sup>
-
-Affiliations: <sup>1</sup> Imaginary Institute
-
-Zoom _Meeting ID_: TBA
-
-We studied _Spongiforma squarepantsii_ in its natural habitat _Ananas comosus_. Our findings show that a specific plankton species is in a parasitic relationship with _S. squarepantsii_ which is supressed upon symbiosis with _Fromia monilis_. Our findings are supported by genetic evidence.
-
-<iframe src="https://widgets.figshare.com/articles/9641909/embed?show_title=true" width="100%" height="250px" allowfullscreen="true" frameborder="0"></iframe>
+> You will see a gradual accumulation of the actual posters here as they rush in.
 
 ---
 
