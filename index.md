@@ -93,14 +93,6 @@ TBA
 
 #### Poster 02: TBA
 
-Authors: __Benjamin Wölfl__<sup>1</sup> et al.
-
-Affiliations: <sup>1</sup> Department of Mathematics, University of Vienna & Vienna Grad. School of Pop. Gen.
-
-Zoom _Meeting ID_: TBA
-
-TBA
-
 ---
 
 #### Poster 03: Multiple haplotype reconstruction from allele frequency data
@@ -109,7 +101,7 @@ Authors: __Marta Pelizzola__ <sup>1</sup>, Merle Behr, Housen Li, Axel Munk, And
 
 Affiliations: <sup>1</sup> Department of Population Genetics, Veterinary Medical University of Vienna & Vienna Grad. School of Pop. Gen.
 
-Zoom _Meeting ID_: TBA
+Zoom _Meeting ID_: 799 9746 3341
 
 Evolve and Resequence (E&R) methods follow many replicate populations of a given model organism, like _C. elegans_ or _Drosophila_, throughout time in order to understand how it adapts to different conditions. It has been shown that performing pool sequencing of one population instead of individual sequencing can give the same sequencing coverage with much lower costs. Furthermore, the power of detecting SNPs being targets of selection stays high. However, by doing so, the haplotype information is lost. Starting from pool sequenced data, our goal is to characterize the haplotype structure and to disentangle the possible patterns of selection in the data. We are investigating trajectories of haplotypes given different selection pressures, how the haplotype structure can help in identifying the truly causal SNPs and which starting condition of the experiment would favor the haplotype reconstruction and the detection of the SNPs driving adaptation. 
 The first step of our research consists in reconstructing the haplotype structure and the haplotype frequency given time series of allele frequency from pool sequencing only. We are currently aiming to extend this work and we are working on a method to detect signatures of selection using the haplotype information we are able to retrieve from the allele frequencies.
@@ -137,25 +129,27 @@ We are now further investigating the polygenicity of plant growth and it's respo
 
 #### Poster 05: A novel toxin-antidote element in _C. tropicalis_
 
-Authors: __Daniel Krogull__<sup>1</sup>
+Authors: __Daniel Krogull__<sup>1</sup>, Polina Tikanova
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: TBA
+Zoom _Meeting ID_: 831 7991 6389
 
-TBA
+<iframe src="https://widgets.figshare.com/articles/13118633/embed?show_title=true" width="100%" height="250px" allowfullscreen frameborder="0"></iframe>
 
 ---
 
-#### Poster 06: Antagonistic coevolution in the Picea-Ips pathosystem
+#### Poster 06: Illuminating the genetic basis of the Picea-Ips-Pathosystem. A Pilot Project
 
 Authors: Kelly Swarts, Miroslav Polacek, Alexis Arizpe, __Lisa Weidlich__ <sup>1</sup>
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: TBA
+Zoom _Meeting ID_: 865 2892 9890
 
 In the northern hemisphere the European Spruce Bark Beetle (Ips typographus) is one of the major disturbance factors in Norway Spruce (Picea abies) stands and the severity is expected to increase with climate change. To understand the genetics underlaying the Picea-Ips pathosystem dynamics better, we established our first pilot project, including repeated paired sampling of both spruce and beetles from plots under immediate threat of bark beetle infestation in central Europe. Our goals are (1) to understand genetic consequences of epidemic phase bark beetle population dynamics over the course of a year, (2) to identify regions of the genome associated with virulence in beetles and resistance in trees and (3) to test for selective response to the partner phenotype.
+
+<iframe src="https://widgets.figshare.com/articles/13118465/embed?show_title=true" width="100%" height="250px" allowfullscreen frameborder="0"></iframe>
 
 ---
 
