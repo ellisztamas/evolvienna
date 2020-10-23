@@ -115,9 +115,7 @@ Selfish genetic elements are genomic regions that promote their own transmission
 
 They are common in prokaryotes, but only a few examples are known in animals. So far only two TAs have been dissected in animals, both in C. elegans.
 
-We want to understand how the toxin kills, and how the antidote prevents it, at the molecular
-
-level? This can help us to answer fundamental questions as: (1) How do these elements with mutually dependent components evolve? (2) How can a highly conserved protein be hijacked and turned into a killing machine? (3) Can we engineer genetic drive elements based on TA elements to  control vector-borne diseases?
+We want to understand how the toxin kills, and how the antidote prevents it, at the molecular level? This can help us to answer fundamental questions as: (1) How do these elements with mutually dependent components evolve? (2) How can a highly conserved protein be hijacked and turned into a killing machine? (3) Can we engineer genetic drive elements based on TA elements to  control vector-borne diseases?
 
 To study the molecular mechanism the novel TA element, we are performing Immunostaining assays, Yeast-Two-Hybrid screens, conditional knockouts and show prelimenary data.
 
