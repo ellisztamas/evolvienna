@@ -99,6 +99,8 @@ Besides growth measurements we have obtained primary metabolome data for 241 acc
 Along those lines it is also to be expected that the smaller rosette sizes in northern accessions are due to an active growth inhibition. Smaller plants cope better with adverse conditions.
 We are now further investigating the polygenicity of plant growth and it's response to temperature by running GWAS and calculating polygenic scores. To reduce the complexity of plant growth we are also attempting to split up this complex trait in less-complex metabolic sub-traits. Together with the hypothesis that cold acclimation is playing an important role in temperature adaptation we hope to further elucidate one aspect of local adaptation in _Arabidopsis thaliana_.
 
+<iframe src="https://widgets.figshare.com/articles/13133000/embed?show_title=true" width="100%" height="250px" allowfullscreen frameborder="0"></iframe>
+
 ---
 
 #### Poster 05: A novel toxin-antidote element in _C. tropicalis_
@@ -108,6 +110,16 @@ Authors: __Daniel Krogull__<sup>1</sup>, Polina Tikanova
 Affiliations: <sup>1</sup> Vienna Bio Center
 
 Zoom _Meeting ID_: 831 7991 6389
+
+Selfish genetic elements are genomic regions that promote their own transmission despite being neutral or even harmful to the individual. Toxin-antidote (TA) elements are a class of selfish elements that cause post-segregation distortion, subverting the Mendelian laws of segregation. TA elements comprise two tightly linked genes: a toxin which is expressed in the gametes, and either deposited maternally into the oocyte or paternally into sperm, and its counterpart, the antidote which is expressed zygotically.
+
+They are common in prokaryotes, but only a few examples are known in animals. So far only two TAs have been dissected in animals, both in C. elegans.
+
+We want to understand how the toxin kills, and how the antidote prevents it, at the molecular
+
+level? This can help us to answer fundamental questions as: (1) How do these elements with mutually dependent components evolve? (2) How can a highly conserved protein be hijacked and turned into a killing machine? (3) Can we engineer genetic drive elements based on TA elements to  control vector-borne diseases?
+
+To study the molecular mechanism the novel TA element, we are performing Immunostaining assays, Yeast-Two-Hybrid screens, conditional knockouts and show prelimenary data.
 
 <iframe src="https://widgets.figshare.com/articles/13118633/embed?show_title=true" width="100%" height="250px" allowfullscreen frameborder="0"></iframe>
 
