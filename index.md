@@ -37,7 +37,7 @@ Start time (CEST) | End time (CEST) | Presenter               | Title           
 
 The idea is that presenters upload their poster to [figshare](https://figshare.com), and links to each poster will be posted here. Each presenter will host a (free, 40-minute) Zoom meeting where they can discuss it, and the audience can freely enter and leave meetings as they please.
 
-The Zoom rooms indicated by the Zoom Meeting IDs below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST). The required password for all rooms is the same and has been sent out via email to all attendees.
+The Zoom rooms indicated by the Zoom Meeting IDs below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST). The required password for all rooms is the same and has been sent out via email to all attendees. Please contact Ben (benjamin.woelfl@univie.ac.at) for any questions regarding the poster session.
 
 ---
 
@@ -47,7 +47,7 @@ Authors: __Krzysztof Stankiewicz__<sup>1</sup> et al.
 
 Affiliations: <sup>1</sup> Department of Mathematics, University of Vienna & Vienna Grad. School of Pop. Gen.
 
-Zoom _Meeting ID_: TBA
+Zoom Meeting ID: TBA
 
 TBA
 
@@ -59,7 +59,10 @@ Authors: __Sharif M.B.__ <sup>1</sup>, Mohandesan E.
 
 Affiliations: <sup>1</sup> Department of Evolutionary Anthropology, University of Vienna
 
-Zoom _Meeting ID_: TBA
+Zoom Meeting ID: 837 4343 5939
+
+In evolutionary and cultural studies, interspecies hybridization is a relevant topic. In this respect, humans have been crossbreeding wild and domestic members of the family Equidae since millennia, as illustrated by archaeological, iconographic and written sources. Such hybrids were greatly valued for their physical strength, endurance and other physiological and behavioral characteristics elicited by the so-called heterosis effect. In focus of this study is the mule, the cross between male domestic donkey and mare. Being more effective than either of the parental stock, mules were particularly valued as labour animals. However, identifying mules (and other equid hybrids) in archaeofaunal assemblages based solely on dental and osteomorphological features is problematic and prone to considerable inter-observer variation. Consequently, application of traditional morphological methods might not be efficient to specify adequately the role of mules in ancient cultures.
+This study aims at elucidating local breeding practices and the contribution of mules to the equid populations exploited in southeastern Germany and Austria in pre-Roman and Roman times. It will apply a multidisciplinary approach combining standard morphology with Geometric Morphometrics (GMM) and Paleogenomics (ancient DNA analysis). From a methodological viewpoint our project expects establishing a reliable genetic and GMM pipeline for tracing systematically F1-hybrids in equine archaeological assemblages, thus enabling to validate identifications based on standard morphological analyses. In sum, we expect that the combined approach proposed here will open up additional venues to address the hitherto underestimated role of equine hybrids in past societies whilst significantly enhancing our knowledge of the cultural, economic and military history of the mule in the Roman Empire north of Alps.
 
 <iframe src="https://widgets.figshare.com/articles/13135673/embed?show_title=true" width="100%" height="250px" allowfullscreen frameborder="0"></iframe>
 
@@ -71,7 +74,7 @@ Authors: __Marta Pelizzola__ <sup>1</sup>, Merle Behr, Housen Li, Axel Munk, And
 
 Affiliations: <sup>1</sup> Department of Population Genetics, Veterinary Medical University of Vienna & Vienna Grad. School of Pop. Gen.
 
-Zoom _Meeting ID_: 799 9746 3341
+Zoom Meeting ID: 799 9746 3341
 
 Evolve and Resequence (E&R) methods follow many replicate populations of a given model organism, like _C. elegans_ or _Drosophila_, throughout time in order to understand how it adapts to different conditions. It has been shown that performing pool sequencing of one population instead of individual sequencing can give the same sequencing coverage with much lower costs. Furthermore, the power of detecting SNPs being targets of selection stays high. However, by doing so, the haplotype information is lost. Starting from pool sequenced data, our goal is to characterize the haplotype structure and to disentangle the possible patterns of selection in the data. We are investigating trajectories of haplotypes given different selection pressures, how the haplotype structure can help in identifying the truly causal SNPs and which starting condition of the experiment would favor the haplotype reconstruction and the detection of the SNPs driving adaptation. 
 The first step of our research consists in reconstructing the haplotype structure and the haplotype frequency given time series of allele frequency from pool sequencing only. We are currently aiming to extend this work and we are working on a method to detect signatures of selection using the haplotype information we are able to retrieve from the allele frequencies.
@@ -86,7 +89,7 @@ Authors: __Pieter Clauw__ <sup>1</sup>, Magnus Nordborg
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: 743 3769 8349
+Zoom Meeting ID: 743 3769 8349
 
 Climate variation exerts significant evolutionary pressure on plants. _Arabidopsis thaliana_ has a large geographic range and local varieties have acquired specific adaptations to their local environment. As a winter-annual, A. thaliana grows during autumn under decreasing temperatures that are usually considerably lower than standard lab conditions. Northern varieties may never experience temperatures above 10ºC until they are about to flower in spring. Although we expect northern strains (natural inbred lines, or “accessions”) to be adapted to lower temperatures, the importance of temperature adaptation and the mechanisms involved are not known.
 We exposed 250 accessions from south-Spain to northern-Sweden to ecological relevant autumn temperatures. Our experiments indicate that growth of accessions coming from colder regions is less affected by colder temperatures compared to accessions from warmer regions.
@@ -105,7 +108,7 @@ Authors: __Daniel Krogull__<sup>1</sup>, Polina Tikanova
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: 831 7991 6389
+Zoom Meeting ID: 831 7991 6389
 
 Selfish genetic elements are genomic regions that promote their own transmission despite being neutral or even harmful to the individual. Toxin-antidote (TA) elements are a class of selfish elements that cause post-segregation distortion, subverting the Mendelian laws of segregation. TA elements comprise two tightly linked genes: a toxin which is expressed in the gametes, and either deposited maternally into the oocyte or paternally into sperm, and its counterpart, the antidote which is expressed zygotically.
 
@@ -125,7 +128,7 @@ Authors: Kelly Swarts, Miroslav Polacek, Alexis Arizpe, __Lisa Weidlich__ <sup>1
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: 865 2892 9890
+Zoom Meeting ID: 865 2892 9890
 
 In the northern hemisphere the European Spruce Bark Beetle (Ips typographus) is one of the major disturbance factors in Norway Spruce (Picea abies) stands and the severity is expected to increase with climate change. To understand the genetics underlaying the Picea-Ips pathosystem dynamics better, we established our first pilot project, including repeated paired sampling of both spruce and beetles from plots under immediate threat of bark beetle infestation in central Europe. Our goals are (1) to understand genetic consequences of epidemic phase bark beetle population dynamics over the course of a year, (2) to identify regions of the genome associated with virulence in beetles and resistance in trees and (3) to test for selective response to the partner phenotype.
 
@@ -139,7 +142,7 @@ Authors: __Rahul Pisupati__ <sup>1</sup>, Magnus Nordborg
 
 Affiliations: <sup>1</sup> Vienna Bio Center & Vienna Grad. School of Population Genetics
 
-Zoom _Meeting ID_: 793 9918 3203
+Zoom Meeting ID: 793 9918 3203
 
 Transgenerational epigenetic inheritance is a common phenomenon in plants. Experiments in Arabidopsis thaliana show that epigenetic marks, such as cytosine methylation, can be faithfully inherited over generations. This type of inherited material is often termed the epi-genotype. However, recent genome-wide association studies (GWAS) using epigenetic marks as traits have shown that there are major-effect loci affecting methylation across the genome. These findings suggest that the variation we observe is instead a phenotype. In addition, transposable elements (TEs) and repetitive elements would change methylation in their proximity. It remains unclear how the above factors shape the global pattern of methylation variation. The goal of the project is to quantitatively distinguish various factors affecting methylation variation in natural lines. Here, I am mainly focusing on CG gene-body methylation variation since it is shown to be faithfully inherited and determine its genetic basis.
 
@@ -151,7 +154,7 @@ Authors: __Claire Burny__ <sup>1</sup>, Viola Nolte, Marlies Dolezal, Christian 
 
 Affiliations: <sup>1</sup> Veterinary Medical University of Vienna & Vienna Grad. School of Pop. Gen.
 
-Zoom _Meeting ID_: TBA
+Zoom Meeting ID: TBA
 
 Many adaptive traits are determined by numerous genes and the smaller the genes contributions, the more additivity is expected. Consequently, polygenicity complicates the study of genetic interactions as weak epistasis might be common for highly polygenic traits but hard to quantify. Experimental evolution is a useful approach to study the adaptive architecture, using replicated populations maintained in new environments. We propose to study the interplay between effect size, the degree of additivity and dominance with an Evolve and Re-sequencing (E&R) design using three Drosophila melanogaster inbred strains - Samarkand (S), Oregon-R (O) and Helsinki (H). Four replicates of two-genotype combinatorial crosses (S⨉O, S⨉H and O⨉H) are maintained in an extreme thermal environment (constant 29°C). All four replicates display a strong and parallel selection response within each cross after 10 generations. However, the frequency of a given genotype is dependent on the cross; this suggests that pervasive (high-order gene-by-gene) epistatic interactions can be detected in our evolved populations that experienced strong allele frequency changes. We then use the allele frequency of a given genotype across the crosses to refine the selection coefficient (s) and dominance (h) estimates and to test different assumptions about dominance (additivity, deviation from additivity and possibly s vs h dependencies). We plan to use the relative allele frequency across the crosses to infer dominance hierarchy between the three genotypes. We eventually suggest that such replicated E&R combinatorial crosses allow to reveal latent epistasis and to refine the estimates of dominance.
 
@@ -163,7 +166,7 @@ Authors: __Lubna Younas__<sup>1</sup>, Mujahid Ali, Qi Zhou
 
 Affiliations: <sup>1</sup> Althanstraße, University of Vienna
 
-Zoom _Meeting ID_: TBA
+Zoom Meeting ID: TBA
 
 In _Drosophila melanogaster_ the single male chromosome X (chrX) undergoes
 an average twofold transcriptional upregulation for balancing the
@@ -196,7 +199,7 @@ Authors: __Julia Lachner__ <sup>1</sup>, Sophia Derdak, Florian Ehrlich, Tanja W
 
 Affiliations: <sup>1</sup> Medical University of Vienna
 
-Zoom _Meeting ID_: TBA
+Zoom Meeting ID: TBA
 
 The evolutionary transition to life on land depended on an efficient skin barrier
 against mechanical insults and transcutaneous water loss. This barrier is
@@ -229,7 +232,7 @@ Authors: __Robin Burns__<sup>1</sup>, Magnus Nordborg
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: TBA
+Zoom Meeting ID: TBA
 
 Angiosperms (flowering plants) vary almost 2000 fold in their genome size. Major processes that lead to genome size expansion are: polyploidization, transposable element (TE) proliferation and supernumerary ribosome DNA (rDNA) copies. Countering this, several mechanisms leading to genome-shrinkage include: the wholesale loss of chromosomes, ectopic recombination and single strand annealing during DNA repair. While the molecular mechanisms underlying these processes are being studied, the nature of the relationship between selection and genome size is not well understood. Arabidopsis is a useful genus to study large genome size change over short evolutionary time. The selfing plant A. thaliana has a small streamlined genome (125Mb) compared to that of the outcrossing perennial A. lyrata (207Mb), which has a more repeat rich genome and ~200Mb is the average genome size for the rest of the genus. Previous work attributed the smaller genome size in A. thaliana to multiple small deletions occurring along the branch after the species split ~6 Mya. However, this conclusion was based on a single reference genome for both species. By assembling 2 additional long read reference genomes of A. lyrata we find many of these deletions to be segregating in A. lyrata as well (and largely fixed in A. thaliana). This suggests that strong selection against positive length variants from standing variation in the ancestor species contributed to genome shrinkage in A. thaliana, and that when comparing genome size, using a single reference genome for a species can lead to incorrect conclusions. Currently, we are examining short reads for a population of A. lyrata lines (n=125) using kmers to call the presence absence of these indels. We aim determine what selection is acting on them in A. lyrata and compare and contrast selection on genome size between selfers and outcrossers.
 
@@ -241,7 +244,7 @@ Authors: __Luz Mayela Soto-Jimenez__ <sup>1</sup>, Magnus Nordborg
 
 Affiliations: <sup>1</sup> Vienna Bio Center
 
-Zoom _Meeting ID_: TBA
+Zoom Meeting ID: TBA
 
 TBA
 
