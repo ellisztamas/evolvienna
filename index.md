@@ -1,6 +1,6 @@
 # Welcome to the event page of the next evolVienna meeting on 27<sup>th</sup> October!
 
-[Schedule](#schedule) | [Sign-up](#sign-up) | [Posters](#poster-session) | [Support & contact](#support-and-contact) | [Tutorial 1](#tutorial-1) | [Tutorial 2](#tutorial-2) | [Tutorial 3](#tutorial-3)
+[Schedule](#schedule) | [Posters](#poster-session) | [Support & contact](#support-and-contact) | [Tutorial 1](#tutorial-1) | [Tutorial 2](#tutorial-2) | [Tutorial 3](#tutorial-3)
 
 <!-- [![evolVienna logo](https://www.evolvienna.at/mediatypes/srcsetvar_medium/evolvienna.jpg)](https://www.evolvienna.at/) -->
 
@@ -8,9 +8,9 @@
 
 Due to COVID-19, this [evolVienna](https://www.evolvienna.at/) meeting will take place __online__. We will use the video conferencing system [Zoom](https://zoom.us/) - __no__ paid account is required. We will have __six__ interesting [speakers](#schedule) and we are delighted to announce that this meeting will also include an online [poster session](#poster-session)!
 
-> Registration for this event closes at 13<sup>th</sup> October.
+> Registration for this event has closed and the passwords have been sent out to all attendees.
 
-Please make sure that you are able to enter Zoom meetings using a __Meeting ID__ (not an invite link).
+Please make sure that you are able to enter Zoom meetings using a __Meeting ID__.
 
 ## Schedule
 
@@ -20,36 +20,24 @@ All talks besides the poster session will take place in the same Zoom meeting ro
 
 After the first block of talks (14:40), you can leave the _main room_ in order to visit different _poster rooms_ during the poster session (14:45-15:25). Please make sure that you arrive back in the _main room_ before the second block of talks starts (15:30).
 
-The following schedule is preliminary:
+The schedule reads:
 
 Start time (CEST) | End time (CEST) | Presenter               | Title                          | Zoom _Meeting ID_
 :----------|:---------|:------------------------|:-------------------------------|:---------
-13:00 | 13:10 | Organizing committee | Introduction | TBA
-13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Hidden tales about intra-host diversity, transmission bottlenecks and super-spreading events in the SARS-CoV-2 genome_ | TBA
-13:40 | 14:10 | Tal Dahan/Tom Ellis (GMI & Weizman Institute) | _Resilience of a wild wheat population structure over 36 years of collection_ | TBA
-14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| _Feeding ecology of dry forest lemurs_ | TBA
+13:00 | 13:10 | Organizing committee | Introduction | 968 3862 0931
+13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Hidden tales about intra-host diversity, transmission bottlenecks and super-spreading events in the SARS-CoV-2 genome_ | 968 3862 0931
+13:40 | 14:10 | Tal Dahan/Tom Ellis (GMI & Weizman Institute) | _Resilience of a wild wheat population structure over 36 years of collection_ | 968 3862 0931
+14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| _Feeding ecology of dry forest lemurs_ | 968 3862 0931
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
-15:30 | 16:00 | Alevtina Koreshova (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | TBA
-16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | TBA
-16:30 | 17:00 | Réka Kelemen (IST Austria) | _Evolutionary and functional genomics of the t-haplotype, a model meiotic driver_ | TBA
-
-## Sign-up
-
-Please sign-up [here](https://forms.gle/PtZAfgpKZUjDpU3Z9) if you are planning to attend the meeting as __audience__.
-
-If you want to present a __poster__ please sign-up [here](https://forms.gle/octdQ5fc9dj52EuC7).
-
-Both registrations __close at October 13<sup>th</sup>__. Shortly after this day, the _audience_ and _poster presenters_ will receive the remaining necessary information via email from one of the members of the organizing committee.
+15:30 | 16:00 | Alevtina Koreshova (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | 968 3862 0931
+16:00 | 16:30 | Sheng-Kai Hsu (University of Veterinary Medicine Vienna) | _Evolution of reproductive isolation during adaptation in allopatric populations with shared ancestry_ | 968 3862 0931
+16:30 | 17:00 | Réka Kelemen (IST Austria) | _Evolutionary and functional genomics of the t-haplotype, a model meiotic driver_ | 968 3862 0931
 
 ## Poster session
 
-The idea is that presenters upload their poster to [figshare](https://figshare.com), and links to each poster will be posted here. Each presenter will host a (free, 40-minute) Zoom meeting where they can discuss it, and the audience can freely enter and leave meetings as they please. Since we are not limited by physical space, we can __accept all poster submissions__, so we encourage as many folks as possible to present.
+The idea is that presenters upload their poster to [figshare](https://figshare.com), and links to each poster will be posted here. Each presenter will host a (free, 40-minute) Zoom meeting where they can discuss it, and the audience can freely enter and leave meetings as they please.
 
-We will send detailled instructions about setting up figshare and your Zoom meeting after registration has closed on 13th October by email. The Zoom discussions will be private to people who have registered for the meeting. However, please be aware that posters shared on figshare will be public. If you do not want your poster to be published online, please contact Ben Wölfl (benjamin.woelfl@univie.ac.at). 
-
-The Zoom rooms indicated by the Zoom _Meeting IDs_ below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST). The required password for all rooms is the same and will be sent out via email to all attendees.
-
-> You will see a gradual accumulation of the actual posters here as they rush in.
+The Zoom rooms indicated by the Zoom Meeting IDs below will only be active on October 27<sup>th</sup> between __14:45 and 15:25__ (CEST). The required password for all rooms is the same and has been sent out via email to all attendees.
 
 ---
 
