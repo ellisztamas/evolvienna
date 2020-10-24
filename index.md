@@ -65,7 +65,15 @@ TBA
 
 ---
 
-#### Poster 02: TBA
+#### Poster 02: Combining Morphology and Paleogenomics to Investigate the Mule’s Ancient History North of the Alps
+
+Authors: __Sharif M.B.__ <sup>1</sup>, Mohandesan E.
+
+Affiliations: <sup>1</sup> Department of Evolutionary Anthropology, University of Vienna
+
+Zoom _Meeting ID_: TBA
+
+<iframe src="https://widgets.figshare.com/articles/13135673/embed?show_title=true" width="100%" height="250px" allowfullscreen frameborder="0"></iframe>
 
 ---
 
