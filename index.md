@@ -16,17 +16,17 @@ Please make sure that you are able to enter Zoom meetings using a __Meeting ID__
 
 The meeting will take place __online__ on Tuesday, 27<sup>th</sup> October, 2020, between 13:00 and 17:00 (CEST).
 
-All talks besides the poster session will take place in the same Zoom meeting room (__main room__) provided by _IST Austria_. We will send the details of the meeting room and password closer to the date.
+All talks besides the poster session will take place in the same Zoom meeting room (__main room__) provided by _IST Austria_. Login details for the meeting room and password have already been emailed to registered participants.
 
-After the first block of talks (14:40), you can leave the _main room_ in order to visit different _poster rooms_ during the poster session (14:45-15:25). Please make sure that you arrive back in the _main room_ before the second block of talks starts (15:30).
+After the first block of talks (14:40), you can leave the _main room_ and visit various _poster rooms_ during the poster session (14:45-15:25). Please make sure that you arrive back in the _main room_ before the second block of talks starts at 15:30.
 
-The schedule reads:
+Here is the schedule for the afternoon:
 
 Start time (CEST) | End time (CEST) | Presenter               | Title                          | Zoom _Meeting ID_
 :----------|:---------|:------------------------|:-------------------------------|:---------
 13:00 | 13:10 | Organizing committee | Introduction | 968 3862 0931
 13:10 | 13:40 | Andreas Bergthaler (CeMM Vienna) | _Hidden tales about intra-host diversity, transmission bottlenecks and super-spreading events in the SARS-CoV-2 genome_ | 968 3862 0931
-13:40 | 14:10 | Tal Dahan/Tom Ellis (GMI & Weizman Institute) | _Resilience of a wild wheat population structure over 36 years of collection_ | 968 3862 0931
+13:40 | 14:10 | Tal Dahan/Tom Ellis (Weizman Institute/GMI) | _Resilience of a wild wheat population structure over 36 years of collection_ | 968 3862 0931
 14:10 | 14:40 | Nayuta Yamashita (University of Veterinary Medicine Vienna)| _Feeding ecology of dry forest lemurs_ | 968 3862 0931
 14:45 | 15:25 | Break and [poster session](#poster-session) |    |    
 15:30 | 16:00 | Alevtina Koreshova (IMBA Vienna) | _Selfish toxin-antidote elements in animals: discovery, mechanisms and implications for speciation_ | 968 3862 0931
